@@ -1,0 +1,1 @@
+define({"../Content/A_Opisy/1_Co_to_jest_wino.htm":0,"../Content/A_Opisy/2_Historia_wina_w_Polsce.htm":1,"../Content/A_Opisy/3_Co_to_jest_wino_domowe.htm":2,"../Content/A_Opisy/4_Rozlew_wina.htm":3,"../Content/A_Opisy/5_Konsumpcja_wina.htm":4,"../Content/A_Opisy/6_Skutki_uboczne_nadużywania_wina.htm":5,});

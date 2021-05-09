@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A_Opisy/1_Co_to_jest_wino.htm'],s:['008'],p:[['008',4],['winogrona',0]]});
